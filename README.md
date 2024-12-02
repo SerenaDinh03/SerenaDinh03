@@ -1,12 +1,12 @@
 Hi 👋 My name is Đinh Bùi Thu Linh
 ==================================
 
-Data analysis, AI engineer
+Data Science, AI engineer
 --------------------------
 
-I am a senior student at a university in Vietnam. My major is Artificial Intelligence and Data Science. But I am also quite interested in Data Analysis.
+I am a senior student at a university in Vietnam. My major is Artificial Intelligence and Data Science. But I am also quite interested in Data Science.
 
-我是越南一所大学的大四学生。我的专业是人工智能和数据科学。但我对数据分析也很感兴趣。
+我是越南一所大学的大四学生。我的专业是人工智能和数据科学。但我对数据科学也很感兴趣。
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [dinhbuithulinh@gmail.com](mailto:dinhbuithulinh@gmail.com)
