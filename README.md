@@ -4,11 +4,11 @@ Hi!!! I'm Serena Dinh
 AI Engineer
 --------------------------
 
-I am a last year student at Thuyloi university in Vietnam. My major is Artificial Intelligence and Data Science.
-我是越南一所大学的大四学生。我的专业是人工智能和数据科学。
+My major is Artificial Intelligence and Data Science.
+我的专业是人工智能和数据科学。
 
 * ✉️  You can contact me at [dinhbuithulinh2103@gmail.com](mailto:dinhbuithulinh2103@gmail.com)
-* 🤝  I'm open to collaborating on Predict, Classification, Analysis,...
+* 🤝  I'm open to collaborating on AI AGent, Predict, Classification, Analysis,...
 * ⚡  I know 3 languages: Vietnamese, English, Chinese; 7 musical instruments: Piano, Violin, Guitar,...
 
 
